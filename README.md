@@ -1,2 +1,2 @@
-# Blog
-Blog utilizando Js e React
+# Pokedex
+Pokedex utilizando Js e React
